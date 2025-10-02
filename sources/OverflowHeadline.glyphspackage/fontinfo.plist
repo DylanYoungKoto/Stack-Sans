@@ -16,10 +16,14 @@ value = 1;
 name = fsType;
 value = (
 );
+},
+{
+name = "Variable Font Origin";
+value = "7B07347B-11DE-4909-BA20-F43005BA30D7";
 }
 );
 date = "2025-06-23 15:03:21 +0000";
-familyName = "Overflow Headline";
+familyName = "Stack Sans Headline";
 featurePrefixes = (
 {
 automatic = 1;
@@ -413,7 +417,7 @@ pos = -200;
 {
 }
 );
-name = Extralight;
+name = ExtraLight;
 userData = {
 GSCornerRadius = 140;
 KernOnIndependentPairs = (
@@ -853,6 +857,32 @@ weightClass = 500;
 },
 {
 axesValues = (
+450
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+},
+{
+name = "Export Folder";
+value = "/Headline";
+}
+);
+instanceInterpolations = {
+"7B07347B-11DE-4909-BA20-F43005BA30D7" = 0.875;
+"A0F3C0B3-6058-4691-93DD-C4034CAB0732" = 0.125;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
 500
 );
 customParameters = (
@@ -874,7 +904,6 @@ instanceInterpolations = {
 "7B07347B-11DE-4909-BA20-F43005BA30D7" = 1;
 };
 isBold = 1;
-linkStyle = "Headline Regular";
 name = Bold;
 weightClass = 700;
 }
