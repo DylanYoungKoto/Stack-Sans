@@ -1,0 +1,29 @@
+{
+color = 10;
+glyphname = quotesingle;
+kernLeft = KO_quotesingle;
+kernRight = KO_quotesingle;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+pos = (0,597);
+ref = comma;
+}
+);
+width = 243;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+pos = (0,657);
+ref = comma;
+}
+);
+width = 195;
+}
+);
+unicode = 39;
+}

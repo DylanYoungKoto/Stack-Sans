@@ -1,0 +1,93 @@
+{
+color = 6;
+glyphname = caroncomb.alt;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (25,750);
+}
+);
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(151,519,o),
+(195,551,o),
+(195,615,cs),
+(195,750,l),
+(56,750,l),
+(56,615,l),
+(127,615,l),
+(127,590,o),
+(118,575,o),
+(91,575,c),
+(91,519,l)
+);
+}
+);
+width = 199;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (23,750);
+}
+);
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(109,586,o),
+(138,610,o),
+(138,657,cs),
+(138,750,l),
+(43,750,l),
+(43,657,l),
+(92,657,l),
+(92,638,o),
+(85,627,o),
+(65,627,c),
+(65,586,l)
+);
+}
+);
+width = 181;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (30,750);
+}
+);
+associatedMasterId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+layerId = "D0617743-3BA4-43F1-AB61-FF8D9A6AEBD7";
+name = "1 Sep 25 at 15:07";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,679,l),
+(88,679,l),
+(88,664,o),
+(82,656,o),
+(67,656,c),
+(67,625,l),
+(101,625,o),
+(123,643,o),
+(123,679,cs),
+(123,750,l),
+(50,750,l)
+);
+}
+);
+visible = 1;
+width = 173;
+}
+);
+}

@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = zerosuperior;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+pos = (0,350);
+ref = zero.dnom;
+}
+);
+width = 381;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+pos = (0,350);
+ref = zero.dnom;
+}
+);
+width = 391;
+}
+);
+metricRight = zero.dnom;
+unicode = 8304;
+}

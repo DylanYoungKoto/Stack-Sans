@@ -1,0 +1,21 @@
+{
+color = 6;
+glyphname = space;
+layers = (
+{
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+width = 200;
+},
+{
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+width = 210;
+}
+);
+unicode = 32;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

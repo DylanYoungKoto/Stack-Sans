@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = lacute;
+kernLeft = KO_l;
+kernRight = KO_q;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (51,190);
+ref = acutecomb;
+}
+);
+width = 269;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (15,190);
+ref = acutecomb;
+}
+);
+width = 209;
+}
+);
+unicode = 314;
+}

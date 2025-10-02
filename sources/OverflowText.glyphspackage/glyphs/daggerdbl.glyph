@@ -1,0 +1,75 @@
+{
+color = 6;
+glyphname = daggerdbl;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(150,-50,l),
+(295,-50,l),
+(295,750,l),
+(150,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(15,446,l),
+(430,446,l),
+(430,572,l),
+(15,572,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(15,146,l),
+(430,146,l),
+(430,272,l),
+(15,272,l)
+);
+}
+);
+width = 445;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(190,-50,l),
+(263,-50,l),
+(263,750,l),
+(190,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(35,469,l),
+(418,469,l),
+(418,535,l),
+(35,535,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(35,185,l),
+(418,185,l),
+(418,251,l),
+(35,251,l)
+);
+}
+);
+width = 453;
+}
+);
+metricLeft = "=dagger";
+metricRight = "=dagger";
+unicode = 8225;
+}

@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = odieresis;
+kernLeft = KO_odieresis;
+kernRight = KO_o;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (128,0);
+ref = dieresiscomb;
+}
+);
+width = 652;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (149,0);
+ref = dieresiscomb;
+}
+);
+width = 662;
+}
+);
+unicode = 246;
+}

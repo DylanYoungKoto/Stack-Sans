@@ -1,0 +1,29 @@
+{
+color = 10;
+glyphname = lessequal;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+pos = (665,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 660;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+pos = (678,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 675;
+}
+);
+unicode = 8804;
+}

@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = Scedilla;
+kernLeft = KO_S;
+kernRight = KO_S;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (223,0);
+ref = cedillacomb;
+}
+);
+width = 666;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (251,0);
+ref = cedillacomb;
+}
+);
+width = 676;
+}
+);
+unicode = 350;
+}

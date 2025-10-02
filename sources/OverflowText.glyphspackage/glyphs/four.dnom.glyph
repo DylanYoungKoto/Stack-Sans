@@ -1,0 +1,97 @@
+{
+color = 6;
+glyphname = four.dnom;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(276,0,l),
+(276,350,l),
+(184,350,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(36,71,l),
+(313,71,l),
+(313,155,l),
+(36,155,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(29,154,l),
+(29,71,l),
+(76,71,l),
+(260,350,l),
+(169,350,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 50;
+weight = -270;
+width = 50;
+};
+};
+width = 337;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,0,l),
+(248,0,l),
+(248,350,l),
+(186,350,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(36,81,l),
+(300,81,l),
+(300,135,l),
+(36,135,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(30,134,l),
+(30,81,l),
+(61,81,l),
+(235,350,l),
+(171,350,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 50;
+weight = 10;
+width = 50;
+};
+};
+width = 329;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = four;
+};
+};
+}

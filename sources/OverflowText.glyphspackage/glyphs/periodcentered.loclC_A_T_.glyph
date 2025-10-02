@@ -1,0 +1,38 @@
+{
+color = 6;
+glyphname = periodcentered.loclCAT;
+kernLeft = KO_periodcentered;
+kernRight = KO_periodcentered;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,203,l),
+(198,203,l),
+(198,356,l),
+(45,356,l)
+);
+}
+);
+width = 243;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,233,l),
+(139,233,l),
+(139,326,l),
+(50,326,l)
+);
+}
+);
+width = 189;
+}
+);
+}

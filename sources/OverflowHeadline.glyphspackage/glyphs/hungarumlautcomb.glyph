@@ -1,0 +1,75 @@
+{
+color = 6;
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (129,560);
+},
+{
+name = top;
+pos = (159,710);
+}
+);
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(55,760,l),
+(25,630,l),
+(82,630,l),
+(155,760,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(193,760,l),
+(163,630,l),
+(220,630,l),
+(293,760,l)
+);
+}
+);
+width = 318;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (166,560);
+},
+{
+name = top;
+pos = (196,770);
+}
+);
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(63,770,l),
+(13,630,l),
+(130,630,l),
+(205,770,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(237,770,l),
+(187,630,l),
+(304,630,l),
+(379,770,l)
+);
+}
+);
+width = 392;
+}
+);
+unicode = 779;
+}

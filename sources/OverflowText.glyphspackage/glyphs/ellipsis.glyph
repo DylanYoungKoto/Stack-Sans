@@ -1,0 +1,62 @@
+{
+color = 10;
+glyphname = ellipsis;
+kernLeft = KO_comma;
+kernRight = KO_period;
+layers = (
+{
+layerId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+shapes = (
+{
+pos = (220,0);
+ref = period;
+},
+{
+pos = (440,0);
+ref = period;
+},
+{
+ref = period;
+}
+);
+width = 683;
+},
+{
+layerId = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
+shapes = (
+{
+pos = (220,0);
+ref = period;
+},
+{
+pos = (440,0);
+ref = period;
+},
+{
+ref = period;
+}
+);
+width = 629;
+},
+{
+associatedMasterId = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
+layerId = "A1AB85E7-9AD7-45DA-BAB0-F8258413E05C";
+name = "1 Sep 25 at 16:37";
+shapes = (
+{
+ref = period;
+},
+{
+ref = period;
+},
+{
+ref = period;
+}
+);
+width = 243;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8230;
+}
