@@ -24,7 +24,7 @@ shapes = (
 ref = t.ss01;
 },
 {
-pos = (227,28);
+pos = (294,0);
 ref = caroncomb.alt;
 }
 );

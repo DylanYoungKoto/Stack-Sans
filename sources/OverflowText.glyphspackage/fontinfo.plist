@@ -567,10 +567,15 @@ Location = 700;
 );
 guides = (
 {
-pos = (132,630);
+angle = 270;
+pos = (351,560);
 },
 {
-pos = (74,770);
+pos = (142,750);
+},
+{
+angle = 270;
+pos = (401,582);
 }
 );
 iconName = SemiBold;
