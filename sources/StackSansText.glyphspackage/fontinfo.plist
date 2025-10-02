@@ -16,14 +16,10 @@ value = 1;
 name = fsType;
 value = (
 );
-},
-{
-name = "Variable Font Origin";
-value = "7B07347B-11DE-4909-BA20-F43005BA30D7";
 }
 );
 date = "2025-06-23 15:03:21 +0000";
-familyName = "Stack Sans Headline";
+familyName = "Stack Sans Text";
 featurePrefixes = (
 {
 automatic = 1;
@@ -377,23 +373,14 @@ Location = 200;
 );
 guides = (
 {
-angle = 180;
-pos = (228,295);
+pos = (35,630);
 },
 {
-angle = 180;
-pos = (28,375);
-},
-{
-pos = (62,630);
-},
-{
-angle = 180;
-pos = (92,760);
+pos = (23,760);
 }
 );
 iconName = Light;
-id = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+id = "B0101270-E9E4-4119-BDB6-6DA172BA76B6";
 metricValues = (
 {
 over = 16;
@@ -580,22 +567,19 @@ Location = 700;
 );
 guides = (
 {
-pos = (205,770);
+angle = 270;
+pos = (351,560);
 },
 {
-pos = (131,630);
+pos = (142,750);
 },
 {
 angle = 270;
-pos = (336,560);
-},
-{
-angle = 270;
-pos = (385,575);
+pos = (401,582);
 }
 );
 iconName = SemiBold;
-id = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+id = "70D15AE9-D38C-43AF-B37D-5B18830B62EE";
 metricValues = (
 {
 over = 16;
@@ -749,7 +733,6 @@ KernOnModels = (
 "g j"
 );
 };
-visible = 1;
 }
 );
 instances = (
@@ -769,13 +752,13 @@ Location = 200;
 },
 {
 name = "Export Folder";
-value = "/Headline";
+value = "/Text";
 }
 );
 instanceInterpolations = {
-"A0F3C0B3-6058-4691-93DD-C4034CAB0732" = 1;
+"B0101270-E9E4-4119-BDB6-6DA172BA76B6" = 1;
 };
-name = Extralight;
+name = ExtraLight;
 weightClass = 200;
 },
 {
@@ -794,12 +777,12 @@ Location = 300;
 },
 {
 name = "Export Folder";
-value = "/Headline";
+value = "/Text";
 }
 );
 instanceInterpolations = {
-"7B07347B-11DE-4909-BA20-F43005BA30D7" = 0.25;
-"A0F3C0B3-6058-4691-93DD-C4034CAB0732" = 0.75;
+"70D15AE9-D38C-43AF-B37D-5B18830B62EE" = 0.25;
+"B0101270-E9E4-4119-BDB6-6DA172BA76B6" = 0.75;
 };
 name = Light;
 weightClass = 300;
@@ -820,12 +803,12 @@ Location = 400;
 },
 {
 name = "Export Folder";
-value = "/Headline";
+value = "/Text";
 }
 );
 instanceInterpolations = {
-"7B07347B-11DE-4909-BA20-F43005BA30D7" = 0.5;
-"A0F3C0B3-6058-4691-93DD-C4034CAB0732" = 0.5;
+"70D15AE9-D38C-43AF-B37D-5B18830B62EE" = 0.5;
+"B0101270-E9E4-4119-BDB6-6DA172BA76B6" = 0.5;
 };
 name = Regular;
 },
@@ -845,12 +828,12 @@ Location = 500;
 },
 {
 name = "Export Folder";
-value = "/Headline";
+value = "/Text";
 }
 );
 instanceInterpolations = {
-"7B07347B-11DE-4909-BA20-F43005BA30D7" = 0.75;
-"A0F3C0B3-6058-4691-93DD-C4034CAB0732" = 0.25;
+"70D15AE9-D38C-43AF-B37D-5B18830B62EE" = 0.75;
+"B0101270-E9E4-4119-BDB6-6DA172BA76B6" = 0.25;
 };
 name = Medium;
 weightClass = 500;
@@ -871,12 +854,12 @@ Location = 600;
 },
 {
 name = "Export Folder";
-value = "/Headline";
+value = "/Text";
 }
 );
 instanceInterpolations = {
-"7B07347B-11DE-4909-BA20-F43005BA30D7" = 0.875;
-"A0F3C0B3-6058-4691-93DD-C4034CAB0732" = 0.125;
+"70D15AE9-D38C-43AF-B37D-5B18830B62EE" = 0.875;
+"B0101270-E9E4-4119-BDB6-6DA172BA76B6" = 0.125;
 };
 name = SemiBold;
 weightClass = 600;
@@ -897,11 +880,11 @@ Location = 700;
 },
 {
 name = "Export Folder";
-value = "/Headline";
+value = "/Text";
 }
 );
 instanceInterpolations = {
-"7B07347B-11DE-4909-BA20-F43005BA30D7" = 1;
+"70D15AE9-D38C-43AF-B37D-5B18830B62EE" = 1;
 };
 isBold = 1;
 name = Bold;
@@ -909,7 +892,7 @@ weightClass = 700;
 }
 );
 kerningLTR = {
-"A0F3C0B3-6058-4691-93DD-C4034CAB0732" = {
+"B0101270-E9E4-4119-BDB6-6DA172BA76B6" = {
 "@MMK_L_KO_A" = {
 "@MMK_R_KO_E.ss01" = -12;
 "@MMK_R_KO_Eth" = -52;
@@ -5071,7 +5054,7 @@ kerningLTR = {
 "@MMK_R_KO_idieresis" = 0;
 "@MMK_R_KO_igrave" = 0;
 "@MMK_R_KO_imacron" = 0;
-"@MMK_R_KO_j" = -23;
+"@MMK_R_KO_j" = -32;
 "@MMK_R_KO_j.ss01" = -19;
 "@MMK_R_KO_l" = 0;
 "@MMK_R_KO_less" = -4;
@@ -10212,7 +10195,7 @@ zero.numr = {
 fraction = -18;
 };
 };
-"7B07347B-11DE-4909-BA20-F43005BA30D7" = {
+"70D15AE9-D38C-43AF-B37D-5B18830B62EE" = {
 "@MMK_L_KO_A" = {
 "@MMK_R_KO_E.ss01" = -13;
 "@MMK_R_KO_Eth" = -47;
@@ -13876,7 +13859,7 @@ fraction = -18;
 "@MMK_R_KO_i.ss01" = 33;
 "@MMK_R_KO_j" = 71;
 "@MMK_R_KO_j.ss01" = 71;
-"@MMK_R_KO_l" = 120;
+"@MMK_R_KO_l" = 73;
 "@MMK_R_KO_n" = 24;
 "@MMK_R_KO_o" = 6;
 "@MMK_R_KO_p" = 22;
@@ -19542,7 +19525,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2025 The Overflow Headline Project Authors (https://github.com/DylanYoungKoto/Overflow)";
+value = "Copyright 2025 The Overflow Text Project Authors (https://github.com/DylanYoungKoto/Overflow)";
 }
 );
 },

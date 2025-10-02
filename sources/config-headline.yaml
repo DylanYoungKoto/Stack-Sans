@@ -1,10 +1,10 @@
 sources:
-  - OverflowHeadline.glyphspackage
-familyName: Overflow Headline
+  - StackSansHeadline.glyphspackage
+familyName: Stack Sans Headline
 outputDir: "../fonts/Headline"
 cleanUp: true
 stat:
-  OverflowHeadline[wght].ttf:
+  StackSansHeadline[wght].ttf:
   - name: Weight
     tag: wght
     values:
