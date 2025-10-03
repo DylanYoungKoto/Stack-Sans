@@ -8,3 +8,5 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+Koto Studio <dylan@koto.studio>
+Emma Marichal <bonjour@emmamarichal.fr>
