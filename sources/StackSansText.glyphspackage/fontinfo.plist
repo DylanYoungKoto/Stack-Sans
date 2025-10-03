@@ -19525,7 +19525,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2025 The Overflow Text Project Authors (https://github.com/DylanYoungKoto/Overflow)";
+value = "Copyright 2025 The Stack Sans Project Authors (https://github.com/DylanYoungKoto/Stack-Sans)";
 }
 );
 },
@@ -19534,7 +19534,7 @@ key = designers;
 values = (
 {
 language = ENG;
-value = "Koto Studio, Dylan Young";
+value = "Koto, Dylan Young";
 }
 );
 },
@@ -19556,7 +19556,7 @@ key = manufacturers;
 values = (
 {
 language = ENG;
-value = "Koto Studio";
+value = Koto;
 }
 );
 },
