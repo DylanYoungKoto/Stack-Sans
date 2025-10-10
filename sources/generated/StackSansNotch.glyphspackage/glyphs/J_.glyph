@@ -1,0 +1,79 @@
+{
+color = 6;
+glyphname = J;
+kernLeft = KO_J;
+kernRight = KO_J;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (175,0);
+},
+{
+name = top;
+pos = (224,700);
+}
+);
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(152,700,l),
+(152,176,l),
+(152,143,o),
+(136,126,o),
+(100,126,c),
+(30,126,l),
+(30,0,l),
+(101,0,l),
+(232,0,o),
+(297,57,o),
+(297,172,c),
+(297,700,l)
+);
+}
+);
+width = 349;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (162,0);
+},
+{
+name = top;
+pos = (231,700);
+}
+);
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(194,700,l),
+(194,132,l),
+(194,78,o),
+(175,62,o),
+(135,62,c),
+(35,62,l),
+(35,0,l),
+(136,0,l),
+(227,0,o),
+(267,42,o),
+(267,132,c),
+(267,700,l)
+);
+}
+);
+width = 324;
+}
+);
+metricRight = "=H";
+unicode = 74;
+userData = {
+KernOnName = J;
+};
+}

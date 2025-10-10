@@ -1,0 +1,39 @@
+{
+color = 6;
+glyphname = periodcentered;
+kernLeft = KO_periodcentered;
+kernRight = KO_periodcentered;
+layers = (
+{
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(35,233,l),
+(124,233,l),
+(124,326,l),
+(35,326,l)
+);
+}
+);
+width = 159;
+},
+{
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,203,l),
+(183,203,l),
+(183,356,l),
+(30,356,l)
+);
+}
+);
+width = 213;
+}
+);
+unicode = 183;
+}

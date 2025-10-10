@@ -1,0 +1,59 @@
+{
+color = 6;
+glyphname = comma;
+kernLeft = KO_comma;
+kernRight = KO_period;
+layers = (
+{
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,0,l),
+(108,0,l),
+(108,-30,o),
+(98,-48,o),
+(65,-48,c),
+(65,-114,l),
+(137,-114,o),
+(183,-76,o),
+(183,0,cs),
+(183,153,l),
+(30,153,l)
+);
+}
+);
+width = 213;
+},
+{
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(35,0,l),
+(84,0,l),
+(84,-19,o),
+(77,-30,o),
+(57,-30,c),
+(57,-71,l),
+(101,-71,o),
+(130,-47,o),
+(130,0,cs),
+(130,93,l),
+(35,93,l)
+);
+}
+);
+width = 165;
+}
+);
+unicode = 44;
+userData = {
+KernOnSpecialSpacing = {
+L = period;
+R = period;
+};
+};
+}

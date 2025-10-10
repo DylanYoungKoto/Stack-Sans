@@ -1,0 +1,57 @@
+{
+color = 6;
+glyphname = emdash;
+kernLeft = KO_endash;
+kernRight = KO_endash;
+layers = (
+{
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,289,l),
+(683,289,l),
+(683,351,l),
+(45,351,l)
+);
+}
+);
+width = 728;
+},
+{
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(41,259,l),
+(679,259,l),
+(679,381,l),
+(41,381,l)
+);
+}
+);
+width = 719;
+},
+{
+associatedMasterId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+layerId = "4706A9B4-B4C4-497D-95F1-4C9790E89C39";
+name = "1 Sep 25 at 14:34";
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,289,l),
+(683,289,l),
+(684,351,l),
+(45,351,l)
+);
+}
+);
+width = 729;
+}
+);
+metricRight = "=hyphen";
+unicode = 8212;
+}

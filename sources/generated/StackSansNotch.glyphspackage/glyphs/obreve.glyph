@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = obreve;
+kernLeft = KO_o;
+kernRight = KO_o;
+layers = (
+{
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (173,0);
+ref = brevecomb;
+}
+);
+width = 632;
+},
+{
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (111,0);
+ref = brevecomb;
+}
+);
+width = 622;
+}
+);
+unicode = 335;
+}

@@ -1,0 +1,65 @@
+{
+color = 6;
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (137,560);
+},
+{
+name = top;
+pos = (137,750);
+}
+);
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(97,760,l),
+(-5,630,l),
+(75,630,l),
+(162,744,l),
+(112,744,l),
+(199,630,l),
+(279,630,l),
+(177,760,l)
+);
+}
+);
+width = 274;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (192,560);
+},
+{
+name = top;
+pos = (192,750);
+}
+);
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(118,770,l),
+(19,630,l),
+(147,630,l),
+(217,728,l),
+(167,728,l),
+(236,630,l),
+(364,630,l),
+(265,770,l)
+);
+}
+);
+width = 383;
+}
+);
+unicode = 770;
+}

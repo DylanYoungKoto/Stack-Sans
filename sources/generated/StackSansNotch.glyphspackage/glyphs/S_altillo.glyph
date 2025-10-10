@@ -1,0 +1,37 @@
+{
+color = 6;
+glyphname = Saltillo;
+layers = (
+{
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,398,l),
+(120,398,l),
+(140,716,l),
+(55,716,l)
+);
+}
+);
+width = 195;
+},
+{
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,398,l),
+(195,398,l),
+(215,716,l),
+(50,716,l)
+);
+}
+);
+width = 265;
+}
+);
+unicode = 42891;
+}

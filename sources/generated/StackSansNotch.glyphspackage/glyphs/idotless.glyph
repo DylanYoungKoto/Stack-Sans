@@ -1,0 +1,68 @@
+{
+color = 6;
+glyphname = idotless;
+kernLeft = KO_p;
+kernRight = KO_q;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (90,0);
+},
+{
+name = ogonek;
+pos = (126,0);
+},
+{
+name = top;
+pos = (90,560);
+}
+);
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(53,0,l),
+(126,0,l),
+(126,560,l),
+(53,560,l)
+);
+}
+);
+width = 179;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (120,0);
+},
+{
+name = ogonek;
+pos = (191,0);
+},
+{
+name = top;
+pos = (120,560);
+}
+);
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(48,0,l),
+(191,0,l),
+(191,560,l),
+(48,560,l)
+);
+}
+);
+width = 239;
+}
+);
+metricRight = "=i";
+unicode = 305;
+}

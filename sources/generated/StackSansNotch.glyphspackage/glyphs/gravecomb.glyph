@@ -1,0 +1,84 @@
+{
+color = 6;
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (121,560);
+},
+{
+name = top;
+pos = (122,750);
+}
+);
+layerId = "A0F3C0B3-6058-4691-93DD-C4034CAB0732";
+shapes = (
+{
+closed = 1;
+nodes = (
+(149,630,l),
+(99,760,l),
+(-1,760,l),
+(92,630,l)
+);
+}
+);
+width = 212;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (185,560);
+},
+{
+name = top;
+pos = (130,750);
+}
+);
+layerId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(238,630,l),
+(178,770,l),
+(18,770,l),
+(121,630,l)
+);
+}
+);
+width = 230;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (170,560);
+},
+{
+name = top;
+pos = (115,750);
+}
+);
+associatedMasterId = "7B07347B-11DE-4909-BA20-F43005BA30D7";
+layerId = "5AFBAA44-B046-46A0-8409-2F7B1EF4BACE";
+name = "3 Sep 25 at 15:00";
+shapes = (
+{
+closed = 1;
+nodes = (
+(113,610,l),
+(210,610,l),
+(160,750,l),
+(20,750,l)
+);
+}
+);
+width = 230;
+}
+);
+unicode = 768;
+}
